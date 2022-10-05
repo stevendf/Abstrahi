@@ -1,0 +1,10 @@
+.bg.login-image{
+    background: url("../img/Abstrahi-Logo.png");
+    background-position: center;
+    background-size: cover;
+    border: 0px;
+}
+
+.size.Div{
+    width: 40vw;
+}
